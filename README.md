@@ -13,7 +13,7 @@ Firstly, we extracted R-R Intervals and R-peak amplitude and then fed to ANN and
 
 If this work is helpful in your research, please consider starring ⭐ us and citing our paper:
 
-1- Bahrami, Mahsa, and Mohamad Forouzanfar. "Deep Learning Forecasts the Occurrence of Sleep Apnea from Single-Lead ECG." Accepted in Cardiovasular Engineering and Technology
+1- Bahrami, Mahsa, and Mohamad Forouzanfar. "Deep Learning Forecasts the Occurrence of Sleep Apnea from Single-Lead ECG." Accepted in: Cardiovasular Engineering and Technology, 2022
 
 
 and other papers of us which provide a comprehensive analysis of deep learning and machine learning methods for sleep apnea detection
