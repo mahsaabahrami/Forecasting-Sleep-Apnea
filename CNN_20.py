@@ -1,9 +1,4 @@
 ##----------------------------------------------------------------------------      
-## SLEEP APNEA DETECTION: COMPREHENSIVE ANALYSIS OF MACHINE LEARNING AND DEEP LEARNING METHODS
-                                    
-                                        ## DATE: 12-6-2021
-                                        ## MODEL: VGG16
-##-----------------------------------------------------------------------------
 #IMPORT LIBRARIES    
 import pickle
 import numpy as np
