@@ -16,7 +16,6 @@ CNN-10, LSTM-10: Slow time = 10 min
 
 CNN-20, LSTM-20: Slow time = 20 min
 
-We used some special pre-processing for this project: 1- labeling data based on our target, 2- Based on slow time we removed begining intervals for example when we used 5-min for slow time, we should remove ECG intervals 1-5 and so on. 3- Based on time of forecasting we removed ending intervals, for example when we predicted 5-min ahead, we should remove 5-min of ending ECG intervals and so on.
 
 # Papers:
 
