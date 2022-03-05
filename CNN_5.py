@@ -53,11 +53,11 @@ def load_data():
     x_final=np.array(x_final, dtype="float32").transpose((0, 3, 1, 2))
 
 
-    return x_final, y_train2, groups_train
+    return x_final, y_train2
 #------------------------------------------------------------------------------
 # CREAT DEEP LEARNING MODEL
 def create_model(weight=1e-3):
-    model= sequential()
+    model= Sequential()
     model.add(Conv2D(32, kernel_size=(5,1), strides=1, padding="valid", activation="relu", kernel_initializer="he_normal",
                 kernel_regularizer=l2(weight), bias_regularizer=l2(weight),input_shape=(180,5,2)))
     model.add(MaxPooling2D(pool_size=(3,1)))
