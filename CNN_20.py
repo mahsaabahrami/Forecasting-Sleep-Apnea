@@ -57,7 +57,7 @@ def load_data():
     x_final=np.array(x_final, dtype="float32").transpose((0, 3, 1, 2))
 
 
-    return x_final, y_train2, groups_train
+    return x_final, y_train2
 #------------------------------------------------------------------------------
 # CREAT DEEP LEARNING MODEL
 def create_model(weight=1e-3):
