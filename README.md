@@ -21,6 +21,7 @@ CNN-20, LSTM-20: Slow time = 20 min
 
 If this work is helpful in your research, please consider starring ⭐ us and citing our paper:
 
+1- Bahrami, Mahsa, and Mohamad Forouzanfar. "Deep Learning Forecasts the Occurrence of Sleep Apnea from Single-Lead ECG.", Cardiovascular Engineering and Technology (2022).
 
 2- Bahrami, Mahsa, and Mohamad Forouzanfar. "Detection of sleep apnea from single-lead ECG: Comparison of deep learning algorithms." In 2021 IEEE International Symposium on Medical Measurements and Applications (MeMeA), pp. 1-5. IEEE, 2021.
 
