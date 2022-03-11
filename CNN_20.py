@@ -46,7 +46,7 @@ def load_data():
       X_fin=np.concatenate((x_train[k-19,:,:,:],x_train[k-18,:,:,:],x_train[k-17,:,:,:],
                             x_train[k-16,:,:,:],x_train[k-15,:,:,:],x_train[k-14,:,:,:],
                             x_train[k-13,:,:,:],x_train[k-12,:,:,:],
-                            x_train[k-11,:,:,:],x_train[k-10,:,:,:]x_train[k-9,:,:,:],x_train[k-8,:,:,:],x_train[k-7,:,:,:],
+                            x_train[k-11,:,:,:],x_train[k-10,:,:,:],x_train[k-9,:,:,:],x_train[k-8,:,:,:],x_train[k-7,:,:,:],
                             x_train[k-6,:,:,:],x_train[k-5,:,:,:],x_train[k-4,:,:,:],
                             x_train[k-3,:,:,:],x_train[k-2,:,:,:],
                             x_train[k-1,:,:,:],x_train[k,:,:,:]),axis=0)
